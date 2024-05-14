@@ -1,0 +1,9 @@
+CoCreateInstance
+MMDeviceEnumerator
+IMMDeviceEnumerator
+PROPERTYKEY
+PROPVARIANT
+DEVPKEY_Device_FriendlyName
+MessageBoxExW
+CPolicyConfigClient
+IPolicyConfig
